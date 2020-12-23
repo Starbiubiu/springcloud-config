@@ -32,7 +32,7 @@ eureka:
       
 
 server:
-  port: 8201       
+  port: 8202     
 #spring的配置
 spring:
   profiles:test
